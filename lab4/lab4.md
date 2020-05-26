@@ -119,7 +119,7 @@
 
 * 统计访问来源主机TOP 100和分别对应出现的总次数
 
-  [结果1]([https://github.com/20LinuxManagement/assignment-01-Ladybird10/tree/master/lab4/outcome/3-1.txt)
+  [结果1]([https://github.com/20LinuxManagement/assignment-01-Ladybird10/tree/master/lab4/outcome/3-1.txt) 【链接失败的详见outcome文件夹里对应的3-1】
 
 * 统计访问来源主机TOP 100 IP和分别对应出现的总次数
 
